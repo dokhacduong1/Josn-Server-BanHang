@@ -3,6 +3,7 @@
     {
       "id": 1,
       "title": "Áo Thun Tay Dài",
+      "numberOfProducts" :98,
       "descriptionTitle":"Áo Thun Tày Dài Dày Dặn",
       "description":"Vải Được Dệt Chặt Sẽ Vừa Vặn Với Cơ Thể Bạn Khi Bạn Giặt Nhiều Hơn. Bông Là Bông Hữu Cơ. [Sản Phẩm Có Kích Thước Tương Thích Mới]",
       "price": 549,
@@ -23,6 +24,7 @@
     {
       "id": 2,
       "title": "Áo Thun Tay Dài",
+      "numberOfProducts" :98,
       "descriptionTitle":"Áo Thun Tày Dài Dệt Kiểu Pháp Dày Dặn",
       "description":"Nó Có Chất Liệu Chắc Chắn Sử Dụng Sợi Có Ít Lông Tơ. Bông Là Bông Hữu Cơ.",
       "price": 549,
@@ -43,6 +45,7 @@
     {
       "id": 3,
       "title": "Áo Thun Tay Dài",
+      "numberOfProducts" :98,
       "descriptionTitle":"Áo Thun Tày Dài Dệt Kiểu Pháp Dày Dặn",
       "description":"Nó Có Chất Liệu Chắc Chắn Sử Dụng Sợi Có Ít Lông Tơ. Bông Là Bông Hữu Cơ.",
       "price": 549,
@@ -63,6 +66,7 @@
     {
       "id": 4,
       "title": "Áo Thun Tay Dài",
+      "numberOfProducts" :98,
       "descriptionTitle":"Áo Thun Tày Dài Dày Dặn",
       "description":"Bông Là Bông Hữu Cơ, Giặt Càng Nhiều Thì Càng Mặc Thoải Mái. Phản Ánh Ý Kiến Của Khách Hàng, Chúng Tôi Đã Sửa Đổi Nó Để Thoải Mái Hơn Và Phù Hợp Hơn.",
       "price": 549,
@@ -83,6 +87,7 @@
     {
       "id": 5,
       "title": "Áo Thun Tay Dài",
+      "numberOfProducts" :98,
       "descriptionTitle":"Áo Thun Tày Dài Pha Cotton Tái Chế",
       "description":"Tàn Dư Từ Quá Trình Sản Xuất Được Trộn Với Bông Nguyên Chất Và Kéo Thành Sợi.",
       "price": 549,
@@ -103,6 +108,7 @@
     {
       "id": 6,
       "title": "Áo Thun Tay Dài",
+      "numberOfProducts" :98,
       "descriptionTitle":"Giá Rẻ Áo Thun Tay Dài Cổ Tròn",
       "description":"Giá Cả Phải Chăng Vì Tôi Đã Sử Dụng Các Loại Chỉ Và Vải Chưa Sử Dụng.Số Lượng Có Hạn.",
       "price": 549,
@@ -119,12 +125,139 @@
         "https://www.muji.com/public/media/img/item/4550512556060_03_1260.jpg",
         "https://www.muji.com/public/media/img/item/4550512556060_04_1260.jpg"
       ]
-    }
-
+    },
+    {
+      "id": 7,
+      "title": "Hộp Gia Đình",
+      "numberOfProducts" :98,
+      "descriptionTitle":"Vỏ Polypropylene, Loại Ngăn Kéo, Loại Nông, Màu Xám Trắng",
+      "description":"Tôi Đã Thêm Một Sắc Tố Để Làm Cho Nó Có Màu Xám Trắng.",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Duong Box",
+      "category": "Box",
+      "thumbnail": "https://www.muji.com/public/media/img/item/4547315253579_1260.jpg",
+      "images": [
+        "https://www.muji.com/public/media/img/item/4547315253579_1260.jpg",
+        "https://www.muji.com/public/media/img/item/4547315253579_01_1260.jpg",
+        "https://www.muji.com/public/media/img/item/4547315253579_02_1260.jpg",
+        "https://www.muji.com/public/media/img/item/4547315253579_03_1260.jpg",
+        "https://www.muji.com/public/media/img/item/4547315253579_03_1260.jpg"
+    ]
+    },
+    {
+      "id": 8,
+      "title": "Hộp Gia Đình",
+      "numberOfProducts" :98,
+      "descriptionTitle":"Vỏ Polypropylene, Loại Ngăn Kéo, Loại Nông, Màu Xám Trắng",
+      "description":"Tôi Đã Thêm Một Sắc Tố Để Làm Cho Nó Có Màu Xám Trắng.",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Duong Box",
+      "category": "Box",
+      "thumbnail": "https://www.muji.com/public/media/img/item/4550002118990_400.jpg",
+      "images": [
+        "https://www.muji.com/public/media/img/item/4550002118990_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550002118990_01_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550002118990_02_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550002118990_03_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550002118990_04_400.jpg"
+    ]
+    },
+    {
+      "id": 9,
+      "title": "Hộp Gia Đình",
+      "numberOfProducts" :98,
+      "descriptionTitle":"Vỏ Polypropylene, Loại Ngăn Kéo, Loại Nông, Màu Xám Trắng",
+      "description":"Tôi Đã Thêm Một Sắc Tố Để Làm Cho Nó Có Màu Xám Trắng.",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Duong Box",
+      "category": "Box",
+      "thumbnail": "https://www.muji.com/public/media/img/item/4549738907565_400.jpg",
+      "images": [
+        "https://www.muji.com/public/media/img/item/4549738907565_400.jpg",
+        "https://www.muji.com/public/media/img/item/4549738907565_01_400.jpg",
+        "https://www.muji.com/public/media/img/item/4549738907565_02_400.jpg",
+        "https://www.muji.com/public/media/img/item/4549738907565_03_400.jpg",
+        "https://www.muji.com/public/media/img/item/4549738907565_03_400.jpg"
+    ]
+    },
+    {
+      "id": 10,
+      "title": "Hộp Gia Đình",
+      "numberOfProducts" :98,
+      "descriptionTitle":"Vỏ Polypropylene, Loại Ngăn Kéo, Loại Nông, Màu Xám Trắng",
+      "description":"Tôi Đã Thêm Một Sắc Tố Để Làm Cho Nó Có Màu Xám Trắng.",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Duong Box",
+      "category": "Box",
+      "thumbnail": "https://www.muji.com/public/media/img/item/4550002481629_400.jpg",
+      "images": [
+        "https://www.muji.com/public/media/img/item/4550002481629_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550002481629_01_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550002481629_02_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550002481629_03_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550002481629_04_400.jpg"
+    ]
+    },
+    {
+        "id": 11,
+        "title": "Hộp Gia Đình",
+        "numberOfProducts" :98,
+        "descriptionTitle":"Vỏ Polypropylene, Loại Ngăn Kéo, Loại Nông, Màu Xám Trắng",
+        "description":"Tôi Đã Thêm Một Sắc Tố Để Làm Cho Nó Có Màu Xám Trắng.",
+        "price": 549,
+        "discountPercentage": 12.96,
+        "rating": 4.69,
+        "stock": 94,
+        "brand": "Duong Box",
+        "category": "Box",
+        "thumbnail": "https://www.muji.com/public/media/img/item/4550344310229_400.jpg",
+        "images": [
+          "https://www.muji.com/public/media/img/item/4550344310229_400.jpg",
+          "https://www.muji.com/public/media/img/item/4550344310229_01_400.jpg",
+          "https://www.muji.com/public/media/img/item/4550344310229_02_400.jpg",
+          "https://www.muji.com/public/media/img/item/4550344310229_03_400.jpg",
+          "https://www.muji.com/public/media/img/item/4550344310229_04_400.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Hộp Gia Đình",
+      "numberOfProducts" :98,
+      "descriptionTitle":"Vỏ Polypropylene, Loại Ngăn Kéo, Loại Nông, Màu Xám Trắng",
+      "description":"Tôi Đã Thêm Một Sắc Tố Để Làm Cho Nó Có Màu Xám Trắng.",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Duong Box",
+      "category": "Box",
+      "thumbnail": "https://www.muji.com/public/media/img/item/4550344310236_400.jpg",
+      "images": [
+        "https://www.muji.com/public/media/img/item/4550344310236_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550344310236_01_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550344310236_02_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550344310236_03_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550344310236_04_400.jpg"
+    ]
+  }
   ],
   
+  
   "category": [
-    "T-Shirt"
+    "T-Shirt",
+    "Box"
     
   ]
 }
