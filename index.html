@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id ="okGet">
+
+    </div>
+    <script>
+        const id = "4550512895732";
+        const id2 = "400";
+        const okGet = document.getElementById("okGet");
+        let images = [
+            `https://www.muji.com/public/media/img/item/${id}_${id2}.jpg`,
+        ];
+
+        for (let i = 1; i < 5; i++) {
+            images.push(`https://www.muji.com/public/media/img/item/${id}_${('0' + i)}_${id2}.jpg`);
+        }
+
+        const imagesString = `"images": [
+    "${images.join('",\n    "')}"
+]`;
+        okGet.innerHTML = imagesString
+        console.log(imagesString);
+    </script>
+</body>
+
+</html>

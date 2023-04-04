@@ -3,9 +3,9 @@
     {
       "id": 1,
       "title": "Áo Thun Tay Dài",
-      "numberOfProducts" :98,
-      "descriptionTitle":"Áo Thun Tày Dài Dày Dặn",
-      "description":"Vải Được Dệt Chặt Sẽ Vừa Vặn Với Cơ Thể Bạn Khi Bạn Giặt Nhiều Hơn. Bông Là Bông Hữu Cơ. [Sản Phẩm Có Kích Thước Tương Thích Mới]",
+      "numberOfProducts": 98,
+      "descriptionTitle": "Áo Thun Tày Dài Dày Dặn",
+      "description": "Vải Được Dệt Chặt Sẽ Vừa Vặn Với Cơ Thể Bạn Khi Bạn Giặt Nhiều Hơn. Bông Là Bông Hữu Cơ. [Sản Phẩm Có Kích Thước Tương Thích Mới]",
       "price": 549,
       "discountPercentage": 12.96,
       "rating": 4.69,
@@ -24,9 +24,9 @@
     {
       "id": 2,
       "title": "Áo Thun Tay Dài",
-      "numberOfProducts" :98,
-      "descriptionTitle":"Áo Thun Tày Dài Dệt Kiểu Pháp Dày Dặn",
-      "description":"Nó Có Chất Liệu Chắc Chắn Sử Dụng Sợi Có Ít Lông Tơ. Bông Là Bông Hữu Cơ.",
+      "numberOfProducts": 98,
+      "descriptionTitle": "Áo Thun Tày Dài Dệt Kiểu Pháp Dày Dặn",
+      "description": "Nó Có Chất Liệu Chắc Chắn Sử Dụng Sợi Có Ít Lông Tơ. Bông Là Bông Hữu Cơ.",
       "price": 549,
       "discountPercentage": 12.96,
       "rating": 4.69,
@@ -45,9 +45,9 @@
     {
       "id": 3,
       "title": "Áo Thun Tay Dài",
-      "numberOfProducts" :98,
-      "descriptionTitle":"Áo Thun Tày Dài Dệt Kiểu Pháp Dày Dặn",
-      "description":"Nó Có Chất Liệu Chắc Chắn Sử Dụng Sợi Có Ít Lông Tơ. Bông Là Bông Hữu Cơ.",
+      "numberOfProducts": 98,
+      "descriptionTitle": "Áo Thun Tày Dài Dệt Kiểu Pháp Dày Dặn",
+      "description": "Nó Có Chất Liệu Chắc Chắn Sử Dụng Sợi Có Ít Lông Tơ. Bông Là Bông Hữu Cơ.",
       "price": 549,
       "discountPercentage": 12.96,
       "rating": 4.69,
@@ -66,9 +66,9 @@
     {
       "id": 4,
       "title": "Áo Thun Tay Dài",
-      "numberOfProducts" :98,
-      "descriptionTitle":"Áo Thun Tày Dài Dày Dặn",
-      "description":"Bông Là Bông Hữu Cơ, Giặt Càng Nhiều Thì Càng Mặc Thoải Mái. Phản Ánh Ý Kiến Của Khách Hàng, Chúng Tôi Đã Sửa Đổi Nó Để Thoải Mái Hơn Và Phù Hợp Hơn.",
+      "numberOfProducts": 98,
+      "descriptionTitle": "Áo Thun Tày Dài Dày Dặn",
+      "description": "Bông Là Bông Hữu Cơ, Giặt Càng Nhiều Thì Càng Mặc Thoải Mái. Phản Ánh Ý Kiến Của Khách Hàng, Chúng Tôi Đã Sửa Đổi Nó Để Thoải Mái Hơn Và Phù Hợp Hơn.",
       "price": 549,
       "discountPercentage": 12.96,
       "rating": 4.69,
@@ -87,9 +87,9 @@
     {
       "id": 5,
       "title": "Áo Thun Tay Dài",
-      "numberOfProducts" :98,
-      "descriptionTitle":"Áo Thun Tày Dài Pha Cotton Tái Chế",
-      "description":"Tàn Dư Từ Quá Trình Sản Xuất Được Trộn Với Bông Nguyên Chất Và Kéo Thành Sợi.",
+      "numberOfProducts": 98,
+      "descriptionTitle": "Áo Thun Tày Dài Pha Cotton Tái Chế",
+      "description": "Tàn Dư Từ Quá Trình Sản Xuất Được Trộn Với Bông Nguyên Chất Và Kéo Thành Sợi.",
       "price": 549,
       "discountPercentage": 12.96,
       "rating": 4.69,
@@ -108,9 +108,9 @@
     {
       "id": 6,
       "title": "Áo Thun Tay Dài",
-      "numberOfProducts" :98,
-      "descriptionTitle":"Giá Rẻ Áo Thun Tay Dài Cổ Tròn",
-      "description":"Giá Cả Phải Chăng Vì Tôi Đã Sử Dụng Các Loại Chỉ Và Vải Chưa Sử Dụng.Số Lượng Có Hạn.",
+      "numberOfProducts": 98,
+      "descriptionTitle": "Giá Rẻ Áo Thun Tay Dài Cổ Tròn",
+      "description": "Giá Cả Phải Chăng Vì Tôi Đã Sử Dụng Các Loại Chỉ Và Vải Chưa Sử Dụng.Số Lượng Có Hạn.",
       "price": 549,
       "discountPercentage": 12.96,
       "rating": 4.69,
@@ -129,9 +129,9 @@
     {
       "id": 7,
       "title": "Hộp Gia Đình",
-      "numberOfProducts" :98,
-      "descriptionTitle":"Vỏ Polypropylene, Loại Ngăn Kéo, Loại Nông, Màu Xám Trắng",
-      "description":"Tôi Đã Thêm Một Sắc Tố Để Làm Cho Nó Có Màu Xám Trắng.",
+      "numberOfProducts": 98,
+      "descriptionTitle": "Vỏ Polypropylene, Loại Ngăn Kéo, Loại Nông, Màu Xám Trắng",
+      "description": "Tôi Đã Thêm Một Sắc Tố Để Làm Cho Nó Có Màu Xám Trắng.",
       "price": 549,
       "discountPercentage": 12.96,
       "rating": 4.69,
@@ -145,14 +145,14 @@
         "https://www.muji.com/public/media/img/item/4547315253579_02_1260.jpg",
         "https://www.muji.com/public/media/img/item/4547315253579_03_1260.jpg",
         "https://www.muji.com/public/media/img/item/4547315253579_03_1260.jpg"
-    ]
+      ]
     },
     {
       "id": 8,
       "title": "Hộp Gia Đình",
-      "numberOfProducts" :98,
-      "descriptionTitle":"Vỏ Polypropylene, Loại Ngăn Kéo, Loại Nông, Màu Xám Trắng",
-      "description":"Tôi Đã Thêm Một Sắc Tố Để Làm Cho Nó Có Màu Xám Trắng.",
+      "numberOfProducts": 98,
+      "descriptionTitle": "Vỏ Polypropylene, Loại Ngăn Kéo, Loại Nông, Màu Xám Trắng",
+      "description": "Tôi Đã Thêm Một Sắc Tố Để Làm Cho Nó Có Màu Xám Trắng.",
       "price": 549,
       "discountPercentage": 12.96,
       "rating": 4.69,
@@ -166,14 +166,14 @@
         "https://www.muji.com/public/media/img/item/4550002118990_02_400.jpg",
         "https://www.muji.com/public/media/img/item/4550002118990_03_400.jpg",
         "https://www.muji.com/public/media/img/item/4550002118990_04_400.jpg"
-    ]
+      ]
     },
     {
       "id": 9,
       "title": "Hộp Gia Đình",
-      "numberOfProducts" :98,
-      "descriptionTitle":"Vỏ Polypropylene, Loại Ngăn Kéo, Loại Nông, Màu Xám Trắng",
-      "description":"Tôi Đã Thêm Một Sắc Tố Để Làm Cho Nó Có Màu Xám Trắng.",
+      "numberOfProducts": 98,
+      "descriptionTitle": "Vỏ Polypropylene, Loại Ngăn Kéo, Loại Nông, Màu Xám Trắng",
+      "description": "Tôi Đã Thêm Một Sắc Tố Để Làm Cho Nó Có Màu Xám Trắng.",
       "price": 549,
       "discountPercentage": 12.96,
       "rating": 4.69,
@@ -187,14 +187,14 @@
         "https://www.muji.com/public/media/img/item/4549738907565_02_400.jpg",
         "https://www.muji.com/public/media/img/item/4549738907565_03_400.jpg",
         "https://www.muji.com/public/media/img/item/4549738907565_03_400.jpg"
-    ]
+      ]
     },
     {
       "id": 10,
       "title": "Hộp Gia Đình",
-      "numberOfProducts" :98,
-      "descriptionTitle":"Vỏ Polypropylene, Loại Ngăn Kéo, Loại Nông, Màu Xám Trắng",
-      "description":"Tôi Đã Thêm Một Sắc Tố Để Làm Cho Nó Có Màu Xám Trắng.",
+      "numberOfProducts": 98,
+      "descriptionTitle": "Vỏ Polypropylene, Loại Ngăn Kéo, Loại Nông, Màu Xám Trắng",
+      "description": "Tôi Đã Thêm Một Sắc Tố Để Làm Cho Nó Có Màu Xám Trắng.",
       "price": 549,
       "discountPercentage": 12.96,
       "rating": 4.69,
@@ -208,35 +208,35 @@
         "https://www.muji.com/public/media/img/item/4550002481629_02_400.jpg",
         "https://www.muji.com/public/media/img/item/4550002481629_03_400.jpg",
         "https://www.muji.com/public/media/img/item/4550002481629_04_400.jpg"
-    ]
+      ]
     },
     {
-        "id": 11,
-        "title": "Hộp Gia Đình",
-        "numberOfProducts" :98,
-        "descriptionTitle":"Vỏ Polypropylene, Loại Ngăn Kéo, Loại Nông, Màu Xám Trắng",
-        "description":"Tôi Đã Thêm Một Sắc Tố Để Làm Cho Nó Có Màu Xám Trắng.",
-        "price": 549,
-        "discountPercentage": 12.96,
-        "rating": 4.69,
-        "stock": 94,
-        "brand": "Duong Box",
-        "category": "Box",
-        "thumbnail": "https://www.muji.com/public/media/img/item/4550344310229_400.jpg",
-        "images": [
-          "https://www.muji.com/public/media/img/item/4550344310229_400.jpg",
-          "https://www.muji.com/public/media/img/item/4550344310229_01_400.jpg",
-          "https://www.muji.com/public/media/img/item/4550344310229_02_400.jpg",
-          "https://www.muji.com/public/media/img/item/4550344310229_03_400.jpg",
-          "https://www.muji.com/public/media/img/item/4550344310229_04_400.jpg"
+      "id": 11,
+      "title": "Hộp Gia Đình",
+      "numberOfProducts": 98,
+      "descriptionTitle": "Vỏ Polypropylene, Loại Ngăn Kéo, Loại Nông, Màu Xám Trắng",
+      "description": "Tôi Đã Thêm Một Sắc Tố Để Làm Cho Nó Có Màu Xám Trắng.",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Duong Box",
+      "category": "Box",
+      "thumbnail": "https://www.muji.com/public/media/img/item/4550344310229_400.jpg",
+      "images": [
+        "https://www.muji.com/public/media/img/item/4550344310229_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550344310229_01_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550344310229_02_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550344310229_03_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550344310229_04_400.jpg"
       ]
     },
     {
       "id": 12,
       "title": "Hộp Gia Đình",
-      "numberOfProducts" :98,
-      "descriptionTitle":"Vỏ Polypropylene, Loại Ngăn Kéo, Loại Nông, Màu Xám Trắng",
-      "description":"Tôi Đã Thêm Một Sắc Tố Để Làm Cho Nó Có Màu Xám Trắng.",
+      "numberOfProducts": 98,
+      "descriptionTitle": "Vỏ Polypropylene, Loại Ngăn Kéo, Loại Nông, Màu Xám Trắng",
+      "description": "Tôi Đã Thêm Một Sắc Tố Để Làm Cho Nó Có Màu Xám Trắng.",
       "price": 549,
       "discountPercentage": 12.96,
       "rating": 4.69,
@@ -250,14 +250,138 @@
         "https://www.muji.com/public/media/img/item/4550344310236_02_400.jpg",
         "https://www.muji.com/public/media/img/item/4550344310236_03_400.jpg",
         "https://www.muji.com/public/media/img/item/4550344310236_04_400.jpg"
-    ]
-  }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Dép Đi Ở Nhà",
+      "numberOfProducts": 98,
+      "descriptionTitle": "Dép Đi Trong Phòng",
+      "description": "Tôi Đã Khâu Một Sợi Dây Bện. Cảm Thấy Như Đi Trên Thảm.",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Shoes Duong",
+      "category": "Sandals",
+      "thumbnail": "https://www.muji.com/public/media/img/item/4550512895367_1260.jpg",
+      "images": [
+        "https://www.muji.com/public/media/img/item/4550512895367_1260.jpg",
+        "https://www.muji.com/public/media/img/item/4550512895367_01_1260.jpg",
+        "https://www.muji.com/public/media/img/item/4550512895367_02_1260.jpg",
+        "https://www.muji.com/public/media/img/item/4550512895367_03_1260.jpg",
+        "https://www.muji.com/public/media/img/item/4550512895367_04_1260.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Dép Đi Ở Nhà",
+      "numberOfProducts": 98,
+      "descriptionTitle": "Dép Đi Trong Phòng",
+      "description": "Tôi Đã Khâu Một Sợi Dây Bện. Cảm Thấy Như Đi Trên Thảm.",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Shoes Duong",
+      "category": "Sandals",
+      "thumbnail": "https://www.muji.com/public/media/img/item/4550512895640_400.jpg",
+      "images": [
+        "https://www.muji.com/public/media/img/item/4550512895640_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550512895640_01_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550512895640_02_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550512895640_03_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550512895640_04_400.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Dép Đi Ở Nhà",
+      "numberOfProducts": 98,
+      "descriptionTitle": "Dép Đi Trong Phòng",
+      "description": "Tôi Đã Khâu Một Sợi Dây Bện. Cảm Thấy Như Đi Trên Thảm.",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Shoes Duong",
+      "category": "Sandals",
+      "thumbnail": "https://www.muji.com/public/media/img/item/4550512896579_400.jpg",
+      "images": [
+        "https://www.muji.com/public/media/img/item/4550512896579_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550512896579_01_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550512896579_02_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550512896579_03_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550512896579_04_400.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Dép Đi Ở Nhà",
+      "numberOfProducts": 98,
+      "descriptionTitle": "Dép Đi Trong Phòng",
+      "description": "Tôi Đã Khâu Một Sợi Dây Bện. Cảm Thấy Như Đi Trên Thảm.",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Shoes Duong",
+      "category": "Sandals",
+      "thumbnail": "https://www.muji.com/public/media/img/item/4550512896890_400.jpg",
+      "images": [
+        "https://www.muji.com/public/media/img/item/4550512896890_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550512896890_01_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550512896890_02_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550512896890_03_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550512896890_04_400.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Dép Đi Ở Nhà",
+      "numberOfProducts": 98,
+      "descriptionTitle": "Dép Đi Trong Phòng",
+      "description": "Tôi Đã Khâu Một Sợi Dây Bện. Cảm Thấy Như Đi Trên Thảm.",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Shoes Duong",
+      "category": "Sandals",
+      "thumbnail": "https://www.muji.com/public/media/img/item/4547315248285_400.jpg",
+      "images": [
+        "https://www.muji.com/public/media/img/item/4547315248285_400.jpg",
+        "https://www.muji.com/public/media/img/item/4547315248285_01_400.jpg",
+        "https://www.muji.com/public/media/img/item/4547315248285_02_400.jpg",
+        "https://www.muji.com/public/media/img/item/4547315248285_03_400.jpg",
+        "https://www.muji.com/public/media/img/item/4547315248285_04_400.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Dép Đi Ở Nhà",
+      "numberOfProducts": 98,
+      "descriptionTitle": "Dép Đi Trong Phòng",
+      "description": "Tôi Đã Khâu Một Sợi Dây Bện. Cảm Thấy Như Đi Trên Thảm.",
+      "price": 549,
+      "discountPercentage": 12.96,
+      "rating": 4.69,
+      "stock": 94,
+      "brand": "Shoes Duong",
+      "category": "Sandals",
+      "thumbnail": "https://www.muji.com/public/media/img/item/4550512895732_400.jpg",
+      "images": [
+        "https://www.muji.com/public/media/img/item/4550512895732_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550512895732_01_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550512895732_02_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550512895732_03_400.jpg",
+        "https://www.muji.com/public/media/img/item/4550512895732_04_400.jpg"
+      ]
+    }
   ],
-  
-  
   "category": [
     "T-Shirt",
-    "Box"
-    
+    "Box",
+    "Sandals"
   ]
 }
